@@ -1,5 +1,5 @@
 <?php
-
+// API Initialisation
 namespace Dingo\Api\Auth;
 
 use Exception;
